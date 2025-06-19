@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.so
+.Python/
+
+# Environment files
+.env
+.venv/
+
+# Database
+*.db
+*.sqlite3
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Media (optional - exclude if videos are large)
+/media/*
